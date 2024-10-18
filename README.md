@@ -1,6 +1,6 @@
 [Download these files as a ZIP file](http://github.com/cis1951/hw3-gpx/zipball/main)
 
-GPX files for [HW3: Penn Dining Scavenger Hunt](https://www.seas.upenn.edu/~cis1951/assignments/hw/hw3/). You can use these to simulate a device's location using these steps:
+GPX files for [HW3: Penn Dining Scavenger Hunt](https://www.seas.upenn.edu/~cis1951/24fa/assignments/hw/hw3/). You can use these to simulate a device's location using these steps:
 
 > If you don't have access to a physical device or don't feel like making the trek to each of the dining halls, worry not! Xcode lets you simulate your device's location using a GPX file. To use it:
 > 
