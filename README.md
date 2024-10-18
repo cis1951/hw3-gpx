@@ -12,3 +12,8 @@ GPX files for [HW3: Penn Dining Scavenger Hunt](https://www.seas.upenn.edu/~cis1
 > Note that if you're running on a physical device, location simulation will only work while your app is actively being run from Xcode. Running your app from the home screen will use the device's actual location.
 > 
 > (You can also use the **Features > Location** menu in the Simulator, but doing it through Xcode will let you use our GPX files.)
+
+We also provide a `Locations.swift` file, which will let you easily use the coordinates in your program's code. Once you copy it to your project, you can access a dining hall's coordinates like so:
+```swift
+let diningHall = DiningHall(name: "1920 Commons", coordinates: CLLocationCoordinate2D.commons, /* etc. */)
+```
